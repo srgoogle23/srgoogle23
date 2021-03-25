@@ -38,8 +38,6 @@ cpp
   
    <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
 
-
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srgoogle23&show_icons=true" alt="srgoogle23" /> </p>
  
  <div align="center">
     <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
