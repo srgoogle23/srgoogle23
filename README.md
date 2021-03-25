@@ -13,19 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-<!--
-<p align=center ><img src="https://i.imgur.com/HAfyswj.jpg" title="source: imgur.com" /></p>
-<p align=center><a href="https://i.imgur.com/HAfyswj.jpg"><img src="https://i.imgur.com/HAfyswj.jpg" title="source: imgur.com" /></a></p>
-
-!-->
-
-<p align=center><a href="https://github.com/srgoogle23"><img src="https://i.imgur.com/HAfyswj.jpg" /></a></p>
-
-<p align=center><a href="https://instagram.com/srgoogle23"><img src="https://i.imgur.com/HAfyswj.jpg" title="source: imgur.com"  /></a></p>
-
-
 <!--
 <div>
 cpp  
