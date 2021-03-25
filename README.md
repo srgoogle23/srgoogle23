@@ -32,8 +32,17 @@ cpp
 
 
 <div align=center>
-  <!--
-   <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
+
+
+
+  
+   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
+
+
+   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srgoogle23&show_icons=true" alt="srgoogle23" /> </p>
+ 
+ <div align="center">
+    <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/electron%20-%23e34f26.svg?&style=for-the-badge&logo=electron&logoColor=white" />
    <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,12 +51,16 @@ cpp
    <img src="https://img.shields.io/badge/python%20-%23339933.svg?&style=for-the-badge&logo=python&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux%20-%23e34f26.svg?&style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  !--> 
-  
-   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
-
-
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=srgoogle23&show_icons=true" alt="srgoogle23" /> </p>
-  </div>
+  <img src="https://img.shields.io/badge/php%20-%23339933.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/wordpress%20-%23339933.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/wordpress%20-%23339933.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/kotlin%20-%23339933.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript%20-%23339933.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/swift%20-%23339933.svg?&style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/go%20-%23339933.svg?&style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/scala%20-%23339933.svg?&style=for-the-badge&logo=scala&logoColor=white" />
+  <img src="https://img.shields.io/badge/elm%20-%23339933.svg?&style=for-the-badge&logo=elm&logoColor=white" />
+ </div>
+ </div>
  
 
