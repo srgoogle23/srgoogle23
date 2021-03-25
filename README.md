@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **srgoogle23/srgoogle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,14 +16,14 @@ Here are some ideas to get you started:
 
 
 <!--
-<p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
-<p align=center><a href="https://imgur.com/9cyvBLo"><img src="https://i.imgur.com/9cyvBLo.png" title="source: imgur.com" /></a></p>
+<p align=center ><img src="https://i.imgur.com/HAfyswj.jpg" title="source: imgur.com" /></p>
+<p align=center><a href="https://i.imgur.com/HAfyswj.jpg"><img src="https://i.imgur.com/HAfyswj.jpg" title="source: imgur.com" /></a></p>
 
 !-->
 
-<p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
+<p align=center><a href="https://github.com/srgoogle23"><img src="https://i.imgur.com/HAfyswj.jpg" /></a></p>
 
-<p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
+<p align=center><a href="https://instagram.com/srgoogle23"><img src="https://i.imgur.com/HAfyswj.jpg" title="source: imgur.com"  /></a></p>
 
 
 <!--
@@ -33,12 +31,12 @@ Here are some ideas to get you started:
 cpp  
                                     void life(void)
                                     {
-                                      printf("Hi 👋, I'm Dipankar \n");
-                                      printf("A passionate kernel hacker from India \n");
-                                      char currentlyLearning[] = "openWRT";
-                                      char AskMeAbout[] = "Linux";
-                                      char ReachMeAt[] = "d.pal5050@gmail.com";
-                                      char FunFact[]  = "I don't have a girlfriend 😭";
+                                      printf("Hi 👋, I'm Leonardo! \n");
+                                      printf("A passionate linux hacker from Brazil \n");
+                                      char currentlyLearning[] = "Java";
+                                      char AskMeAbout[] = "Anything";
+                                      char ReachMeAt[] = "contato@leonardoliveira.com";
+                                      char FunFact[]  = "I'm not fun 😭";
                                     }
 
 
@@ -59,7 +57,7 @@ cpp
    <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
   !--> 
   
-   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p>
+   <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
 
 
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=deep5050&show_icons=true" alt="deep5050" /> </p>
