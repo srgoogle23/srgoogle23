@@ -26,6 +26,7 @@ cpp
 
  
  <div align="center">
+   <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/%20-%23339933.svg?&style=for-the-badge&logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/electron%20-%23e34f26.svg?&style=for-the-badge&logo=electron&logoColor=white" />
    <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
@@ -60,7 +61,7 @@ cpp
 <img alt="Night Coding" src="https://i.imgur.com/tbgWQm3.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
