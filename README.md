@@ -11,8 +11,6 @@ cpp
                                       char ReachMeAt[] = "contato@leonardoliveira.com";
                                       char FunFact[]  = "I'm not fun 😭";
                                     }
-
-
 </div>
 !-->
 
