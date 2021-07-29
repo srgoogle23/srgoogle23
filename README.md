@@ -18,8 +18,6 @@ cpp
 
 <div align=center>
 
-
-
   
    <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
 
