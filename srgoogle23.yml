@@ -1,2 +1,0 @@
-- name: GS Commit Message Checker
-  uses: GsActions/commit-message-checker@v1
