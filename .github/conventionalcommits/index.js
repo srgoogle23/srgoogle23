@@ -5,9 +5,14 @@ import { validatePR } from "./ccc";
 try {
   if (typeof github.context.payload.pull_request == 'undefined') {
     var commits = github.context.payload.commits;
-    var last_commit = commits[commits.length - 1];
-    console.log(commits.length );
-    const title = last_commit["message"];
+    if (commits.length == 1) {
+      const title = commits["message"];
+    } else {
+      var last_commit = commits[commits.length - 1];
+      const title = last_commit["message"];
+    }
+
+    
     const body = '';
     const type = 'push';
   } else {
