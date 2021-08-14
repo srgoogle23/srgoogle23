@@ -1,6 +1,6 @@
 name: Testes
 
-on: [pull_request]
+on: [pull_request, commit]
 
 jobs:
   conventional-commits-checker:
