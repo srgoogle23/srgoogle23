@@ -8,7 +8,7 @@ try {
     if (commits.length == 1) {
       console.log('Apenas um commit');
       console.log(commits);
-      console.log(commits["message"]);
+      console.log(commits[0]["message"]);
       const title = commits["message"];
     } else {
       console.log('Mais de um commit');
