@@ -3,12 +3,13 @@ const github = require("@actions/github");
 import { validatePR } from "./ccc";
 
 try {
-  if (typeof github.context.payload.pull_request === 'undefined') {
+  if (typeof github.context.payload.pull_request == 'undefined') {
+    console.log('É um pull commit!');
     const title = github.context.payload.commits.message;
-  }
-  else {
+  } else {
+    console.log('É um pull request!');
     const title = github.context.payload.pull_request.title;
-    const body = github.context.payload.pull_request.body;
+    const body = github.context.payload.pull_request.body; 
   }
 
   
