@@ -3,9 +3,15 @@ const github = require("@actions/github");
 import { validatePR } from "./ccc";
 
 try {
-  console.log(github.context.payload);
-  const title = github.context.payload.pull_request.title;
-  const body = github.context.payload.pull_request.body;
+  if (typeof github.context.payload.pull_request !== 'undefined') {
+    const title = github.context.payload.commits.message;
+  }
+  else {
+    const title = github.context.payload.pull_request.title;
+    const body = github.context.payload.pull_request.body;
+  }
+
+  
   const prTitleRegexPattern = core.getInput("pr-title-regex");
   const prBodyRegexPattern = core.getInput("pr-body-regex");
 
