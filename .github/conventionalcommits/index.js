@@ -4,11 +4,9 @@ import { validatePR } from "./ccc";
 
 try {
   if (typeof github.context.payload.pull_request == 'undefined') {
-    console.log('É um push!');
-    console.log(github.context.payload);
-    console.log(github.context.payload.commits);
-    console.log(github.context.payload.commits["message"]);
-    const title = github.context.payload.commits["message"];
+    var commits = github.context.payload.commits;
+    var last_commit = commits[commits.length - 1];
+    const title = last_commit[last_commit]["message"];
     const body = '';
     const type = 'push';
   } else {
