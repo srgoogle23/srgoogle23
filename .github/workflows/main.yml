@@ -1,9 +1,9 @@
-name: CI
+name: Testes
 
 on: [pull_request]
 
 jobs:
-  check-for-cc:
+  conventional-commits-checker:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -13,9 +13,9 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - run: cd check && npm install
-      - run: cd check && npm run build --if-present
+      - run: cd .github/conventionalcommits && npm install
+      - run: cd .github/conventionalcommits && npm run build --if-present
 
-      - name: check-for-cc
+      - name: conventional-commits-checker
         id: hello
-        uses: ./check/
+        uses: ./.github/conventionalcommits/
