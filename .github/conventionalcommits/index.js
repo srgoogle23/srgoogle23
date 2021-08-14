@@ -6,7 +6,6 @@ try {
   if (typeof github.context.payload.pull_request == 'undefined') {
     var commits = github.context.payload.commits;
     if (commits.length == 1) {
-      console.log('Apenas um commit');
       const title = commits[0]["message"];
     } else {
       console.log('Mais de um commit');
