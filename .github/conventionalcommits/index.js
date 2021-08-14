@@ -6,9 +6,15 @@ try {
   if (typeof github.context.payload.pull_request == 'undefined') {
     var commits = github.context.payload.commits;
     if (commits.length == 1) {
+      console.log('Apenas um commit');
+      console.log(commits);
+      console.log(commits["message"]);
       const title = commits["message"];
     } else {
+      console.log('Mais de um commit');
       var last_commit = commits[commits.length - 1];
+      console.log(last_commit);
+      console.log( last_commit["message"]);
       const title = last_commit["message"];
     }
 
