@@ -7,9 +7,7 @@ try {
     var commits = github.context.payload.commits;
     if (commits.length == 1) {
       console.log('Apenas um commit');
-      console.log(commits);
-      console.log(commits[0]["message"]);
-      const title = commits["message"];
+      const title = commits[0]["message"];
     } else {
       console.log('Mais de um commit');
       var last_commit = commits[commits.length - 1];
