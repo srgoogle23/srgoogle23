@@ -3,14 +3,16 @@ const github = require("@actions/github");
 import { validatePR } from "./ccc";
 
 try {
-  console.log( github.context.payload.commits["message"]);
   if (typeof github.context.payload.pull_request == 'undefined') {
-    console.log('É um commit!');
-    const title = github.context.payload.commits.message;
+    console.log('É um push!');
+    const title = github.context.payload.commits["message"];
+    const body = '';
+    const type = 'push';
   } else {
     console.log('É um pull request!');
     const title = github.context.payload.pull_request.title;
-    const body = github.context.payload.pull_request.body; 
+    const body = github.context.payload.pull_request.body;
+    const type = 'pull';
   }
 
   
@@ -22,6 +24,7 @@ try {
     body,
     prTitleRegexPattern,
     prBodyRegexPattern,
+    type,
   });
   if (result.status !== "success") {
     throw result;
