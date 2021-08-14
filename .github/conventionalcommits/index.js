@@ -3,6 +3,7 @@ const github = require("@actions/github");
 import { validatePR } from "./ccc";
 
 try {
+  console.log(github.context.payload);
   const title = github.context.payload.pull_request.title;
   const body = github.context.payload.pull_request.body;
   const prTitleRegexPattern = core.getInput("pr-title-regex");
