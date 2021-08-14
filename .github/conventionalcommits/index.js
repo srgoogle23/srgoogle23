@@ -13,7 +13,6 @@ try {
       var title = last_commit["message"];
       console.log(title);
     }
-  
     var body = '';
     var type = 'push';
   } else {
