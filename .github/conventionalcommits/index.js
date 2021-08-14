@@ -15,13 +15,13 @@ try {
     }
 
     
-    const body = '';
-    const type = 'push';
+    var body = '';
+    var type = 'push';
   } else {
     console.log('É um pull request!');
     var title = github.context.payload.pull_request.title;
-    const body = github.context.payload.pull_request.body;
-    const type = 'pull';
+    var body = github.context.payload.pull_request.body;
+    var type = 'pull';
   }
   
   
