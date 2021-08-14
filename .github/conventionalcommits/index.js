@@ -3,8 +3,7 @@ const github = require("@actions/github");
 import { validatePR } from "./ccc";
 
 try {
-  console.log(github.context.payload.pull_request);
-  if (typeof github.context.payload.pull_request !== 'undefined') {
+  if (typeof github.context.payload.pull_request === 'undefined') {
     const title = github.context.payload.commits.message;
   }
   else {
