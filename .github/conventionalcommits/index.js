@@ -6,7 +6,7 @@ try {
   if (typeof github.context.payload.pull_request == 'undefined') {
     var commits = github.context.payload.commits;
     var last_commit = commits[commits.length - 1];
-    console.log(last_commit);
+    console.log(commits.length );
     const title = last_commit["message"];
     const body = '';
     const type = 'push';
