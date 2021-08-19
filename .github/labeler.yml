@@ -1,0 +1,53 @@
+enable:
+  issues: true
+  prs: true
+
+comments:
+  issues: |
+    Obrigado por abrir esse issue!
+    Foram aplicados labels que correspondam ao texto em seu título e descrição.
+
+    Reveja as labels e faça as alterações necessárias.
+  prs: |
+    Obrigado pela contribuição!
+    Foram aplicados labels que correspondam ao texto em seu título e descrição.
+
+    Reveja as labels e faça as alterações necessárias.
+
+labels:
+  'ACTIONS':
+    include:
+      - '/\baction[s]?\b/gmi'
+    exclude: []
+  'API':
+    include:
+      - '/\bapi\b/gmi'
+    exclude: []
+  'ERRO CONSERTADO':
+    include:
+      - '/(\bfix\b)|(\bfixing\b)|(\bconsertar\b)|(\bconsertando\b)/gmi'
+    exclude: []
+  'ERRO':
+    include:
+      - '/\berro[s]?\b|\bbug[s]?\b/gmi'
+    exclude: []
+  'MELHORIA':
+    include:
+      - '/\bfeat\b|\bmelhoria[s]?\b/gmi'
+    exclude: []
+  'DOCUMENTAÇÃO':
+    include:
+      - '/\bdocs\b|\bdocumentação[s]?\b|\bdocumentações[s]?\b/gmi'
+    exclude: []
+  'INTEGRAÇÃO':
+    include:
+      - '/\bintegra\b/gmi'
+    exclude: []
+  'REVERTENDO':
+    include:
+      - '/\brevert\b|\brevertendo\b/gmi'
+    exclude: []
+  'CONSERTADO ALGO':
+    include:
+      - '/\bchore\b/gmi'
+    exclude: []
