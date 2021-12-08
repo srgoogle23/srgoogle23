@@ -106,7 +106,7 @@ cpp
   </div>
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgoogle23&layout=compact&theme=algolia" style="max-width: 50%;"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Today" style="max-width: 50%;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Last%2030%20days" style="max-width: 50%;"/>
   </div>
 </div>
 </a>
