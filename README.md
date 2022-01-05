@@ -100,15 +100,15 @@ cpp
 <p align="center">
 <a href="https://github.com/srgoogle23">
 <div>
-  <div>
+  <div align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
   </div>
-  <div style="margin: auto;width: 50%;padding: 10px;}">
+  <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgoogle23&layout=compact&theme=algolia" style="max-width: 100%;"/>
   </div>
-  <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Last%2030%20days" style="max-width: 100%;"/>
+  <div align="center">
+    <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Last%2030%20days" style="max-width: 100%;"/>
   </div>
 </div>
 </a>
