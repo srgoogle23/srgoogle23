@@ -110,6 +110,9 @@ cpp
   <div align="center">
     <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Last%2030%20days" style="max-width: 100%;"/>
   </div>
+  <div align="center">
+    ![snake gif](https://github.com/srgoogle23/srgoogle23/blob/output/github-contribution-grid-snake.svg)
+  </div>
 </div>
 </a>
 </p>
