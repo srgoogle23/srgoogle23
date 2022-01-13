@@ -94,6 +94,7 @@ cpp
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)&nbsp;
+![snake commits](https://github.com/srgoogle23/srgoogle23/blob/output/github-contribution-grid-snake.svg)
     
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -110,12 +111,11 @@ cpp
   <div align="center">
     <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Last%2030%20days" style="max-width: 100%;"/>
   </div>
-  <div align="center">
-    ![snake gif](https://github.com/srgoogle23/srgoogle23/blob/output/github-contribution-grid-snake.svg)
-  </div>
 </div>
 </a>
 </p>
+
+![snake commits](https://github.com/srgoogle23/srgoogle23/blob/output/github-contribution-grid-snake.svg)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
