@@ -18,7 +18,8 @@ cpp
  
    <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
 
- 
+  ![Beecrowd](https://beecrowd.leonardoliveira.com/?profile=552824)
+  
  <div align="center">
    <img src="https://img.shields.io/badge/php%20-%23339933.svg?&style=for-the-badge&logo=php&logoColor=white" />
    <img src="https://img.shields.io/badge/wordpress%20-%23339933.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -41,7 +42,6 @@ cpp
  </div>
  
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. Note: I love PHP!\
 🎓 &nbsp;I'm currently studying Computer Science at the Harvard University and studying Systems Engineering at the Federal University of Minas Gerais (UFMG).\
 🌱 &nbsp;I'm on track for learning more about Security Analysis, Artificial Intelligence, Systems Design, and Cloud Architecture.\
