@@ -101,9 +101,7 @@ cpp
 <div>
   <div align="center">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgoogle23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
-  </div>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgoogle23&layout=compact&theme=algolia" style="max-width: 100%;"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgoogle23&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
   </div>
   <div align="center">
     <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Last%20365%20days" style="max-width: 100%;"/>
