@@ -18,7 +18,7 @@ cpp
  
    <p align=center><a href="https://github.com/deep.5050"><img src="https://i.imgur.com/gO1tJqp.png" title="Technologies I use" align=center/></a></p>
   
-  ![Visitas](https://visitor-badge.glitch.me/badge?page_id=srgoogle23.srgoogle23)&nbsp;
+
  <div align="center">
    <img src="https://img.shields.io/badge/php%20-%23339933.svg?&style=for-the-badge&logo=php&logoColor=white" />
    <img src="https://img.shields.io/badge/wordpress%20-%23339933.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />
