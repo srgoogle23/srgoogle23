@@ -73,8 +73,6 @@ cpp
 </a>
 </p>
 
-![snake commits](https://github.com/srgoogle23/srgoogle23/blob/output/github-contribution-grid-snake.svg)
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
