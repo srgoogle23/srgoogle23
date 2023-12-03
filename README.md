@@ -38,8 +38,6 @@ cpp
 ✉️ &nbsp;You can shoot me an email at contato@leonardoliveira.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.linkedin.com/in/srgoogle23/) or in my [website](https://leonardoliveira.com/) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://i.imgur.com/tbgWQm3.gif" align="right"/>
-
 ### 🛠 &nbsp;Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
