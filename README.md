@@ -54,28 +54,37 @@ cpp
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white)&nbsp;
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/leonardo-oliveira-teixeira/"><img src="https://img.shields.io/badge/-Leonardo%20Oliveira%20Teixeira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:contato@leonardoliveira.com"><img src="https://img.shields.io/badge/-contato@leonardoliveira.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
+</p>
     
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/srgoogle23">
 <div>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgoogle23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 50%;"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=srgoogle23&layout=compact&langs_count=8&theme=algolia" style="max-width: 50%;"/>
-  </div>
-  <div align="center">
-    <img height="360em" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding%20Last%20365%20days" style="max-width: 100%;"/>
+  <div align="left">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=srgoogle23&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </div>
 </div>
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### ⚙️ &nbsp;Hours Coding - Last 365 days (by wakatime)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leonardo-oliveira-teixeira/"><img src="https://img.shields.io/badge/-Leonardo%20Oliveira%20Teixeira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:contato@leonardoliveira.com"><img src="https://img.shields.io/badge/-contato@leonardoliveira.com-D14836?style=flat&logo=Gmail&logoColor=whitee"/></a>
-<a href="https://instagram.com/srgoogle23"><img src="https://img.shields.io/badge/-@srgoogle23-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/srgoogle23">
+<div>
+  <div align="left">
+    <img height="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=srgoogle23&layout=compact&custom_title=Hours%20Coding" style="max-width: 100%;"/>
+  </div>
+</div>
+</a>
 </p>
+
+
 
