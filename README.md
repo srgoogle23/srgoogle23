@@ -17,7 +17,7 @@
 </a>
 </p>
 
-## ⚙️ Hours Coding - Last 365 days (by wakatime)
+## ⚙️ Hours Coding - Last 365 days (by WakaTime)
 
 <p align="center">
 <a href="https://github.com/srgoogle23">
