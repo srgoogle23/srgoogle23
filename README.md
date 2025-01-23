@@ -1,4 +1,3 @@
-
 # Leonardo Oliveira - Software Engineer
 
 ## 👨🏻‍💻 About Me
