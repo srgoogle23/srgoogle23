@@ -6,7 +6,7 @@
 🌱 Currently diving deeper into Security Analysis, AI, and Systems Design.\
 ✍️ Outside work, I enjoy exploring UX/UI design, reading, and spending time with my family.\
 📧 Reach me at contato@leonardoliveira.com for inquiries or collaboration opportunities.\
-📄 Check my [LinkedIn](https://www.linkedin.com/in/srgoogle23/) for detailed professional achievements.\
+📄 Check my [LinkedIn](https://www.linkedin.com/in/srgoogle23/) for detailed professional achievements.
 
 ## 📊 GitHub Analytics
 
