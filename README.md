@@ -1,4 +1,4 @@
-# Leonardo Oliveira - Software Engineer
+# Leonardo Teixeira - Software Engineer
 
 ## 👨🏻‍💻 About Me
 
